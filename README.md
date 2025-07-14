@@ -1,16 +1,25 @@
-# Python Greeting Scripts
+Task 1: Basic Mathematical Operations
+Functionality:
 
-## Description
-This repository contains basic Python scripts for user interaction using input and string manipulation.
+Takes two numbers as input from the user.
 
-### Task 1: Greeting User
-- Takes user's first name and last name.
-- Combines them and prints a personalized welcome message.
+Performs the following basic arithmetic operations:
 
-### Task 2: (Your Description Here)
-- Add your second script's details.
++ Addition
 
-## How to Run
-```bash
-python task1_greeting.py
-python task2_example.py
+- Subtraction
+
+* Multiplication
+
+/ Division
+
+Displays the result of each operation clearly on the screen.
+
+Task 2: Create a Personalized Greeting
+Functionality:
+
+Takes the user's first name and last name as input.
+
+Combines them into a full name using string concatenation.
+
+Prints a personalized greeting message using the full name.
