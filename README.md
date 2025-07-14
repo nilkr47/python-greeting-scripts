@@ -1,25 +1,13 @@
-Task 1: Basic Mathematical Operations
-Functionality:
+Task 1 :
+a = int(input("Please Enter the first num"))
+b = int(input("Please Enter the second num"))
+print ("Addition =",a+b)
+print ("Subtraction =",a-b)
+print ("Multiplication =",a*b)
+print("Division =",a/b)
 
-Takes two numbers as input from the user.
-
-Performs the following basic arithmetic operations:
-
-+ Addition
-
-- Subtraction
-
-* Multiplication
-
-/ Division
-
-Displays the result of each operation clearly on the screen.
-
-Task 2: Create a Personalized Greeting
-Functionality:
-
-Takes the user's first name and last name as input.
-
-Combines them into a full name using string concatenation.
-
-Prints a personalized greeting message using the full name.
+Task 2 :
+first_name = input("Enter your first name: ")
+last_name = input("Enter your last name: ")
+full_name = first_name + " " + last_name
+print("Hello, " + full_name + "! Welcome!")
